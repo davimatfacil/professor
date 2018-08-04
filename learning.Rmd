@@ -1,0 +1,34 @@
+---
+title: "RLearning"
+author: "Davi"
+date: "4 de agosto de 2018"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Aqui aprenderemos sobre R, estatistica, machine learning. No estudo do R usamos o R studio. Para saber mais sobre R Studio acesse <https://www.rstudio.com/>.
+
+Um exemplo de codigo em R:
+
+```{r cars}
+summary(cars)
+```
+
+No exemplo acima foi usado o comando *summary* que resume as principais estatisticas dos dados.
+
+##  Plots
+
+Exemplo de grafico simples no R.
+
+```{r pressure, message=FALSE, echo=FALSE}
+library(ggplot2)
+
+ggplot(diamonds, aes(x=carat,y=price))+geom_point()
+```
+
+
