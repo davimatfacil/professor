@@ -2,4 +2,4 @@
 title: "Statistics Website"
 ---
 
-Site sobre estatística , análise preditiva e Machine Learning tanto a teoria quanto a prática usando R ou Python.
+Site sobre estatistica , analise preditiva e Machine Learning tanto a teoria quanto a pratica usando R ou Python.
