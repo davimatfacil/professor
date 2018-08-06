@@ -8,8 +8,6 @@ navbar:
       href: index.html
     - text: "Learning"     ##### the new  
       href: learning.html  ##### stuff
-    #- text: "Videos"     ##### the new 
-    #  href: videos.html  ##### stuff 
     - text: "About Me"
       icon: fa-newspaper-o
       href: about.html
