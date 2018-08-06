@@ -2,4 +2,4 @@
 title: "Statistics Website"
 ---
 
-Site para aprendizado de estatistica!
+Site para aprendizado de analise preditiva

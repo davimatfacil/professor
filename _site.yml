@@ -4,6 +4,7 @@ navbar:
   title: "Statistics Website"
   left:
     - text: "Home"
+      icon: fa-home  # handy way to use FontAwesome icons in nav!
       href: index.html
     - text: "Learning"     ##### the new
       href: learning.html  ##### stuff
