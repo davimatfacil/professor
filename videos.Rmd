@@ -9,6 +9,6 @@ Aqui uma lista de videos interessantes
 ##Problema do aniversario
 
 Nesse problema vemos como a intuição pode ser enganosa quando o assunto é probabilidades.
-Enunciado ....
+Enunciado:
 
 Aqui  o link [Problema do Aniversario](http://bit.ly/Problema_do_aniversario)
