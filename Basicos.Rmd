@@ -18,3 +18,8 @@ A matemática é fundamental para o entendimento dos algoritmos de Machine Learn
 - [Introducao a solucao de equacoes](https://rpubs.com/davimat/equacoes_1)
 
 - [Solucao de equacoes 2](https://rpubs.com/davimat/equacao_2)
+
+
+####Canal Matemática Básica com prof. Davi Rocha:
+
+[Link do canal](http://bit.ly/matematicacentral)
