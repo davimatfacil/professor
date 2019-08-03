@@ -1,14 +1,18 @@
 ---
-title: "Videos"
+title: "Matemática Básica"
 author: "Davi"
 date: "6 de agosto de 2018"
 output: html_document
 ---
-Aqui uma lista de videos interessantes
+Aqui colocarei breves artigos de matemática básica e videos curtos do canal "Matemática Central do prof. Davi Rocha". 
 
-##Problema do aniversario
+A matemática é fundamental para o entendimento dos algoritmos de Machine Learning e a matemática básica é fundamental para o entendimento da matemática usada nos algoritmos!!
 
-Nesse problema vemos como a intuicao pode ser enganosa quando o assunto e probabilidades.
-Enunciado ....
 
-Aqui  o link [Problema do Aniversario](http://bit.ly/Problema_do_aniversario)
+####Links Rpubs:
+
+Aqui breves artigos publicados no R Pubs.
+
+1. Seleção de artigos sobre introdução as equações:
+
+- [Introducao as equacoes](https://rpubs.com/davimat/equacoes_1)
