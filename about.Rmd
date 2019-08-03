@@ -3,9 +3,9 @@ title: "About Me"
 ---
 
 - __Name:__ Davi Rocha da Silva
-- __Ocupacao:__ Estatistico e Professor
+- __Ocupacao:__ Professor, Estatístico, Programador R.
 - __Hobbies:__ viajar
-- __Interesses:__ Estatistica, Machine Learning, Inteligencia Artificial
+- __Interesses:__ Estatística,R, Python, Machine Learning, Inteligencia Artificial
 
 
 ![](Foto_davi.jpg)
