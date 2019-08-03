@@ -21,7 +21,7 @@ summary(cars)
 
 No exemplo acima foi usado o comando *summary* que resume as principais estatisticas dos dados.
 
-##  Plots
+##  Graficos
 
 Exemplo de grafico simples no R.
 
