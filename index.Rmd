@@ -2,7 +2,7 @@
 title: "Prof.Davi Rocha Website"
 ---
 
-#### Muito bem vindo!
+#### Muito bem vindo a esse site!
 
 Site sobre estatistica , analise preditiva e Machine Learning do prof. Davi Rocha
 
