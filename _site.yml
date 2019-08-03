@@ -1,7 +1,7 @@
 name: "DaviRocha-website"
 output_dir: "."
 navbar:
-  title: "Statistics Website"
+  title: "prof.Davi Rocha-Website"
   type: default
   right:
     - text: "Home"

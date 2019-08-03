@@ -1,8 +1,9 @@
 ---
-title: "Prof.Davi Website"
+title: "Prof.Davi Rocha Website"
 ---
 
+### Muito bem vindo!
 
-Site sobre estatistica , analise preditiva e Machine Learning tanto a teoria quanto a pratica usando R ou Python.
+Site sobre estatistica , analise preditiva e Machine Learning do prof. Davi Rocha
 
 
