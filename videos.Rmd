@@ -1,6 +1,6 @@
 ---
 title: "Matemática Básica"
-author: "Davi"
+author: "ProfDaviRocha"
 date: "6 de agosto de 2018"
 output: html_document
 ---
@@ -15,4 +15,6 @@ Aqui colocarei breves artigos publicados no R Pubs.
 
 1. Seleção de artigos sobre introdução as equações:
 
-- [Introducao as equacoes](https://rpubs.com/davimat/equacoes_1)
+- [Introducao a solucao de equacoes](https://rpubs.com/davimat/equacoes_1)
+
+- [Solucao de equacoes 2](https://rpubs.com/davimat/equacao_2)
