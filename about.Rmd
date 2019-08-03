@@ -2,12 +2,17 @@
 title: "Sobre mim"
 ---
 
-### Bem vindo ao meu site, espero!
+#### Um pouco sobre mim:
 
-- __Name:__ Davi Rocha da Silva
-- __Ocupacao:__ Professor, Estatístico, Programador R.
-- __Hobbies:__ viajar e comer 
-- __Interesses:__ Estatística,R, Python, Machine Learning, Inteligencia Artificial
+-  __Nome:__ Davi Rocha da Silva
+
+-   __Formacao:__ Bacharel em Matemática - UNESP e Mestre em Matemática Aplicada - USP
+
+-   __Ocupacao:__ Professor, Estatístico, Programador R.
+
+-    __Hobbies:__ Adoro viajar e comer!!
+
+- __Interesses:__ Tenho interesse em Estatística, Aplicações do R e Python em Ciência de Dados, Machine Learning e Inteligencia Artificial.
 
 
 ![](Foto_davi.jpg)
