@@ -11,7 +11,7 @@ A matemática é fundamental para o entendimento dos algoritmos de Machine Learn
 
 ####Links Rpubs:
 
-Aqui breves artigos publicados no R Pubs.
+Aqui colocarei breves artigos publicados no R Pubs.
 
 1. Seleção de artigos sobre introdução as equações:
 
