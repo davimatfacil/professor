@@ -2,7 +2,7 @@
 title: "Sobre mim"
 ---
 
-### Bem vindo ao meu site!
+### Bem vindo ao meu site, espero!
 
 - __Name:__ Davi Rocha da Silva
 - __Ocupacao:__ Professor, Estatístico, Programador R.
