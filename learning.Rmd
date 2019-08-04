@@ -5,19 +5,17 @@ date: "4 de agosto de 2018"
 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 
 Aqui aprenderemos sobre R, estatistica, machine learning. No estudo do R usamos o R studio. Para saber mais sobre R Studio acesse <https://www.rstudio.com/>.
 
-Um exemplo de codigo em R:
+#### Explore seu primeiro conjunto de dados
 
-```{r cars}
-summary(cars)
-```
+Veja esse exemplo de uma simples exploração de dados no R
+
+[Veja aqui](https://rpubs.com/davimat/explore_facil)
+
+
 
 No exemplo acima foi usado o comando *summary* que resume as principais estatisticas dos dados.
 
